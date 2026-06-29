@@ -1,0 +1,292 @@
+canonical_identifier: bkk:krp/KR3ej040/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej040/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 幼幼集
+  identifiers:
+    krp: KR3ej040
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej040.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej040_000-jc.yaml, hash: 'sha256:87ccad0b76cc12b713c8a0c15c885191d33665963197ed3226eca7a8709b8846'}
+  - {seq: 1, filename: KR3ej040_001-jc.yaml, hash: 'sha256:0c93d14521d2ad6a1f32f65fa84118c0abe78173c79218eabaa8e02b3c3705bb'}
+  - {seq: 2, filename: KR3ej040_002-jc.yaml, hash: 'sha256:659383a6429d00726d14124111b4d50485767129116d6868476f0c59d3df841f'}
+  - {seq: 3, filename: KR3ej040_003-jc.yaml, hash: 'sha256:64ae891667903959fcf20923e714723cc33856d710f51ccba37a8c2b5c6e5e2a'}
+  - {seq: 0, filename: KR3ej040_000-jc.yaml, hash: 'sha256:c2896e87174f8ee417509ca0e75f1bb7cda5401cfd4507cba71265d0e3a35b9c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej040_000-jc.markers.yaml, hash: 'sha256:3842d087e26e09745c7a39438902acec3fbb0add02a101824c664de81be20ca0'}
+  - {seq: 1, role: markers, filename: assets/KR3ej040_001-jc.markers.yaml, hash: 'sha256:68a18080c815eb02e197fbc4e945a00fc028aa05930d6ce3609ee7f1dc278cae'}
+  - {seq: 2, role: markers, filename: assets/KR3ej040_002-jc.markers.yaml, hash: 'sha256:5951152e4c9ab6d9d4f65a37a42f3a810ef8f46f8147cc10e134d79d9fe70de7'}
+  - {seq: 3, role: markers, filename: assets/KR3ej040_003-jc.markers.yaml, hash: 'sha256:aa02f5763225202b4f60c4227d940b7c3179c7c5bfbdbd9928e2119657d418fd'}
+  - {seq: 0, role: markers, filename: assets/KR3ej040_000-jc.markers.yaml, hash: 'sha256:3842d087e26e09745c7a39438902acec3fbb0add02a101824c664de81be20ca0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej040_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 416
+  label: 治痘詳說序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11748
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 11748
+  label: 孟氏治痘詳說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d2
+    span:
+    - body
+    - 8
+    - 390
+  label: 論種子不宜服熱藥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d3
+    span:
+    - body
+    - 390
+    - 922
+  label: 論出痘根源
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d4
+    span:
+    - body
+    - 922
+    - 1347
+  label: 論大痘水痘斑疹分別
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d5
+    span:
+    - body
+    - 1347
+    - 3143
+  label: 論發熱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d6
+    span:
+    - body
+    - 3143
+    - 4251
+  label: 論見形
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d7
+    span:
+    - body
+    - 4251
+    - 4600
+  label: 論部位
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d8
+    span:
+    - body
+    - 4600
+    - 5355
+  label: 論長髮
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d9
+    span:
+    - body
+    - 5355
+    - 6368
+  label: 論灌漿
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d10
+    span:
+    - body
+    - 6368
+    - 6703
+  label: 論觀形驗色
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d11
+    span:
+    - body
+    - 6703
+    - 8040
+  label: 論收靨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d12
+    span:
+    - body
+    - 8040
+    - 8421
+  label: 論痘瘡首尾不可汗首尾不可下
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d13
+    span:
+    - body
+    - 8421
+    - 8715
+  label: 論痘瘡首尾當汗當下
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d14
+    span:
+    - body
+    - 8715
+    - 9035
+  label: 保元湯辨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej040_jc_001-d3.d2d15
+    span:
+    - body
+    - 9035
+    - 11748
+  label: 見紅點忌用升麻辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej040_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 11905
+  label: 中卷
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ej040_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 11905
+  label: 孟氏雜症良方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej040_jc_002-d4.d2d2
+    span:
+    - body
+    - 8
+    - 11905
+  label: 小兒有病須看虎口三關
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej040_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 10630
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ej040_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 10630
+  label: 錢氏經驗良方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej040_jc_003-d5.d2d2
+    span:
+    - body
+    - 8
+    - 7750
+  label: 初生訣
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej040_jc_003-d5.d2d3
+    span:
+    - body
+    - 7750
+    - 10630
+  label: 附上用方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej040_jc_000-d7.h1s1
+    span:
+    - front
+    - 0
+    - 349
+  label: 後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej040_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 2015
+  label: 幼幼集附本草藥性
+  type: section
+  level: 1
+hash: sha256:6c16f9d4fe1e915085b109728953cee5efe6b195e589677516cf0c82fccd2c4d
