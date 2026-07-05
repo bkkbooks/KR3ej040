@@ -17,15 +17,16 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej040_000.yaml, hash: 'sha256:87ccad0b76cc12b713c8a0c15c885191d33665963197ed3226eca7a8709b8846'}
-  - {seq: 1, filename: KR3ej040_001.yaml, hash: 'sha256:e97c633e7462a02a1260e0e5188dc2918e8a36c367ee54958fec9f11435d22dc'}
-  - {seq: 2, filename: KR3ej040_002.yaml, hash: 'sha256:b24bb8d3039b75b03b2935a9654c3958bca145e060325b5de86d4c50f63749c2'}
-  - {seq: 3, filename: KR3ej040_003.yaml, hash: 'sha256:6f9561cd900e9fbb4a491c1311247609b1ca48ab540c5d3ef8d591390a20be93'}
+  - {seq: 0, filename: KR3ej040_000.yaml, hash: 'sha256:c2896e87174f8ee417509ca0e75f1bb7cda5401cfd4507cba71265d0e3a35b9c'}
+  - {seq: 1, filename: KR3ej040_001.yaml, hash: 'sha256:0c93d14521d2ad6a1f32f65fa84118c0abe78173c79218eabaa8e02b3c3705bb'}
+  - {seq: 2, filename: KR3ej040_002.yaml, hash: 'sha256:659383a6429d00726d14124111b4d50485767129116d6868476f0c59d3df841f'}
+  - {seq: 3, filename: KR3ej040_003.yaml, hash: 'sha256:64ae891667903959fcf20923e714723cc33856d710f51ccba37a8c2b5c6e5e2a'}
   - {seq: 0, filename: KR3ej040_000.yaml, hash: 'sha256:c2896e87174f8ee417509ca0e75f1bb7cda5401cfd4507cba71265d0e3a35b9c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ej040_001.markers.yaml, hash: 'sha256:5fbbdd9d6c7ef06bef17f24b7a7c5fafa11acbef36d684bedd7a95d3e48a12c6'}
-  - {seq: 2, role: markers, filename: assets/KR3ej040_002.markers.yaml, hash: 'sha256:463bb52951aeecfb1b441e401fffadc2c7106386f7a4fe4c1952a49c2dffeb72'}
-  - {seq: 3, role: markers, filename: assets/KR3ej040_003.markers.yaml, hash: 'sha256:9a33eb40a0274339b813da7984caf14f56a5b6185a59d7dd7cd99280fd64cb16'}
+  - {seq: 0, role: markers, filename: assets/KR3ej040_000.markers.yaml, hash: 'sha256:d4b87259dc1c6e424352a3d2411dccc2a08b04657c9321b69a408e8bee1be50d'}
+  - {seq: 1, role: markers, filename: assets/KR3ej040_001.markers.yaml, hash: 'sha256:25b6d5ed37ee577c9a66476923dedcab696f60689298f582117c9109baabb5a5'}
+  - {seq: 2, role: markers, filename: assets/KR3ej040_002.markers.yaml, hash: 'sha256:63e066d83ea392d6aae49284f61928f8bf03bcc28d621e89f65dd099672f0330'}
+  - {seq: 3, role: markers, filename: assets/KR3ej040_003.markers.yaml, hash: 'sha256:e6ec1f512522f52994d9ba0c83e6d3a314d14b8ae5118117ba6e8ac10e6ec0ba'}
 table_of_contents:
 - ref:
     seq: 0
@@ -287,7 +288,4 @@ table_of_contents:
   label: 幼幼集附本草藥性
   type: section
   level: 1
-hash: sha256:76b1305dbce72d0b4bf234b7901c2bdc01796dd7a9c4973567cfc3ef63b0500a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a5e9d74b0a44e3980250668d6fea7b84842083eeee2174c6d9b7fdbbf9665ba8
